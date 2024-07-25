@@ -10,6 +10,10 @@ To access the README file, begin by copying the GitHub code git@github.com:Alond
 
 Next, download the file by opening your terminal and executing the command node index.js. This action initiates the download process and allows you to access the README file seamlessly.
 
+Below, is a video to show you the terminal usage. 
+
+<video controls src="README Generator video .mp4" title="Title"></video>
+
 # Repository Link
 
 https://github.com/Alondra1752/README-Generator
