@@ -12,11 +12,18 @@ Next, download the file by opening your terminal and executing the command node 
 
 Below, is a video to show you the terminal usage. 
 
-<video controls src="README Generator video .mp4" title="Title"></video>
+https://docs.google.com/document/d/1Xnn3SqobV4xaKMaLy6LC8ToTg2gEjOdUzw8KcmLkOoI/edit?usp=sharing
+
+
+
 
 # Repository Link
 
 https://github.com/Alondra1752/README-Generator
+
+https://docs.google.com/document/d/1Xnn3SqobV4xaKMaLy6LC8ToTg2gEjOdUzw8KcmLkOoI/edit?usp=sharing
+
+
 
 
 # License 
